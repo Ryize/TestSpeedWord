@@ -4,17 +4,18 @@ Website for testing typing speed. Language: Russian, different time ranges.
 
 ## Deploy locally:
 
-Clone the repository
+Clone the repository and go to installed folder:
 ```
-https://github.com/Ryize/TestSpeedWord
+git clone https://github.com/Ryize/TestSpeedWord.git
+cd TestSpeedWord
 ```
 
-Install requirements
+Install requirements:
 ```
 pip3 install -r requirements.txt
 ```
 
-Run the website
+Run the website:
 ```
 python3 app.py
 ```
