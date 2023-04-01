@@ -1,23 +1,23 @@
-# Website for typing speed test
+# TestSpeedWord
 
-Website for testing typing speed. Language: Russian, different time ranges.
+Веб-сайт для тестирования скорости набора текста. Язык: русский, разные временные интервалы.
 
-## Deploy locally:
+## Прежде всего:
 
-Clone the repository and go to installed folder:
+Клонируйте репозиторий и перейдите в установленную папку:
 ```
 git clone https://github.com/Ryize/TestSpeedWord.git
 cd TestSpeedWord
 ```
 
-Install requirements:
+Установите requirements:
 ```
 pip3 install -r requirements.txt
 ```
 
-Run the website:
+Запустите проект:
 ```
 python3 app.py
 ```
 
-> Technologies used in the project: Flask, random.
+> Технологии, использованные в проекте: Flask, random.
